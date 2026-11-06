@@ -1,13 +1,13 @@
 # 固件默认设置
 
 # 管理地址
-lan_ip = "192.168.123.1"
+lan_ip = "192.168.8.1"
 
 # 无线名称
 wifi_ssid = "ImmortalWrt"
 
 # 无线密码
-wifi_password = "12345678"
+wifi_password = " "
 
 # 无线加密
 wifi_encryption = "psk2"
